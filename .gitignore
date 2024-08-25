@@ -1,0 +1,8 @@
+External*Dependecies\
+Dexterion/
+Debug/
+x64/
+.vs/
+.git/
+
+imgui.ini

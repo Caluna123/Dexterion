@@ -312,3 +312,4 @@ bool config::exists(int index) {
 	std::wstring filePath = utils::getConfigPath() + L"\\" + CONFIG_NAMES[index];
 	return std::ifstream(filePath).good();
 }
+

@@ -107,3 +107,4 @@ All config files are located on `X:\Dexterion`
 [![Preview](assets/screenshots/preview5.png)](https://github.com/Caluna123/Dexterion/releases/download/v1.7.2/Dexterion.zip)
 
 </details>
+

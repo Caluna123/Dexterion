@@ -30,3 +30,4 @@ IMGUI_IMPL_API void     ImGui_ImplDX11_InvalidateDeviceObjects();
 IMGUI_IMPL_API bool     ImGui_ImplDX11_CreateDeviceObjects();
 
 #endif // #ifndef IMGUI_DISABLE
+

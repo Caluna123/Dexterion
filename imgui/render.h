@@ -21,3 +21,4 @@ inline namespace Render {
 		ImGui::GetBackgroundDrawList()->AddText(pos, (ImU32)color, text);
 	}
 }
+

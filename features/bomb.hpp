@@ -11,3 +11,4 @@ namespace bomb {
 
 	void timer(C_C4 C_C4);
 }
+

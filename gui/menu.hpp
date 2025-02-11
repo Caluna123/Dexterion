@@ -37,3 +37,4 @@ namespace imGuiMenu {
 	void configRender();
 	void accountRender();
 }
+

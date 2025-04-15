@@ -12,3 +12,4 @@ namespace json {
 
 	nlohmann::json readFromJsonFile(std::wstring path, std::wstring fileName);
 }
+

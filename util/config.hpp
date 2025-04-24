@@ -183,3 +183,4 @@ BoneConnection boneConnections[] = {
 namespace DexterionSystem {
 	std::string weaponIconsTTF = ".\\fonts\\weaponIcons.ttf";
 }
+

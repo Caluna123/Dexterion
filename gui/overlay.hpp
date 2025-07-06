@@ -49,3 +49,4 @@ public:
 
 	void destroyWindow();
 };
+

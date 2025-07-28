@@ -15,3 +15,4 @@ namespace misc {
 	void droppedItem(C_CSPlayerPawn C_CSPlayerPawn, CGameSceneNode CGameSceneNode, view_matrix_t viewMatrix);
 	bool isGameWindowActive();
 }
+

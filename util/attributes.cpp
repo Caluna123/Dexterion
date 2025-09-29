@@ -399,3 +399,4 @@ uint64_t CBasePlayerController::getSteamId()
 	return steamId = MemMan.ReadMem<uint64_t>(controller + clientDLL::CBasePlayerController_["m_steamID"]);
 }
 
+

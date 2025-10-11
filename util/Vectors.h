@@ -153,3 +153,4 @@ inline Vector3 calculateBestAngle(Vector3 angle,Vector3 configFov) {
 	}
 	return newAngle;
 }
+

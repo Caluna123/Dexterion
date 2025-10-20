@@ -16,3 +16,4 @@ namespace misc {
 	bool isGameWindowActive();
 }
 
+
